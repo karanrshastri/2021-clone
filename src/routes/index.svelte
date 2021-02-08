@@ -13,7 +13,7 @@
 
 	figure {
 		margin: 0 0 1em 0;
-		width: 450px;
+		width: 400px;
     		height: 220px;
 	}
 
@@ -45,4 +45,4 @@
 	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
-<footer>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</footer>
+<p><footer>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</footer></p>
