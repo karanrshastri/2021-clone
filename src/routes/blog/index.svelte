@@ -21,7 +21,10 @@
 	<title>Blog</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h1>Things I've Written About</h1>
+
+<p> You can find my published work from academia <a href="https://scholar.google.com/citations?hl=en&user=3nw4rD4AAAAJ" target="_blank">here</a> 
+	</p>
 
 <ul>
 	{#each posts as post}
