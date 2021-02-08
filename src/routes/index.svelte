@@ -33,14 +33,14 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Karan Shastri</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h2>Karan Shastri</h2>
 
 <figure>
-	<img alt='Borat' src='great-success.png'>
-	<figcaption>HIGH FIVE!</figcaption>
+	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="">
+	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</p>
