@@ -44,4 +44,4 @@
 	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
-<p>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</p>
+<p>Made with &hearts; and &#9749; by Karan using the Sapper Next.js framework during Winter, 2021.</p>
