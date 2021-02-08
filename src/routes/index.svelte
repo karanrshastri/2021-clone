@@ -40,8 +40,7 @@
 <h2>Karan Shastri</h2>
 
 <figure>
-	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="" width: 400px;
-    		height: 220px;>
+	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="" width="400" height="220">
 	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
