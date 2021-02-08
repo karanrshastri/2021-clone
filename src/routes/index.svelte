@@ -13,6 +13,8 @@
 
 	figure {
 		margin: 0 0 1em 0;
+		width: 100px;
+    		height: 120px;
 	}
 
 	img {
@@ -39,7 +41,7 @@
 <h2>Karan Shastri</h2>
 
 <figure>
-	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="" width="50" height="50">
+	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="">
 	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
