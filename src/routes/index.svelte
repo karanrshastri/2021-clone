@@ -13,7 +13,7 @@
 
 	figure {
 		margin: 0 0 1em 0;
-		width: 250px;
+		width: 350px;
     		height: 220px;
 	}
 
