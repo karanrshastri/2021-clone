@@ -13,8 +13,6 @@
 
 	figure {
 		margin: 0 0 1em 0;
-		 width: 400px;
-  		height: 370px;
 		
 	}
 
