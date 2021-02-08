@@ -40,8 +40,8 @@
 <h2>Karan Shastri</h2>
 
 <figure>
-	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="" width="400" height="220">
+	<img src="https://github.com/karanrshastri/2021/blob/master/circle-cropped.png?raw=true" alt="" width="400" height="150">
 	<figcaption>pronounced 'cur-run'</figcaption>
 </figure>
 
-<footer>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</footer>
+<p>Made with &hearts; and &#9749; by Karan using Vercel's Sapper framework during Winter, 2021.</p>
