@@ -14,7 +14,7 @@
 	figure {
 		margin: 0 0 1em 0;
 		width: 100px;
-    		height: 120px;
+    		height: 220px;
 	}
 
 	img {
