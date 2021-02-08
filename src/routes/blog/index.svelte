@@ -23,7 +23,7 @@
 
 <h1>Things I've Written About</h1>
 
-<p> You can find my published work from academia <a href="https://scholar.google.com/citations?hl=en&user=3nw4rD4AAAAJ" target="_blank">here</a> 
+<p> You can find my published work from academia <a href="https://scholar.google.com/citations?hl=en&user=3nw4rD4AAAAJ" target="_blank">through Google Scholar</a> 
 	</p>
 
 <ul>
