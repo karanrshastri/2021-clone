@@ -4,7 +4,7 @@
 
 <h1>About Karan</h1>
 
-<p>Full-Stack User Researcher. My current job revolves around aiding product and design teams make evidence-based decisions by understanding how people read the news.
+<p>Full-Stack User Researcher. My current job revolves around <strike> aiding product and design teams make evidence-based decisions by understanding how people read the news.</strike> stay tuned
 	 </p>
  <p>My current <a href="http://getlighthouse.ca/" target="_blank">side project</a> which I co-work on with four friends involves developing a personalised light-based art product to foster interaction between geographically distant family members. 
 	</p>         
