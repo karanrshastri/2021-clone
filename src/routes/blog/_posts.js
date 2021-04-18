@@ -17,7 +17,7 @@ const posts = [
 			
 
 			<ul>
-				<li>Music: More life (Drake), Culture III (Migos), Lush (Snail Mail), Superclean Vol. II (The Marias), Insomnia (Skepta)</li>
+				<li>Music: More life (Drake), Culture II (Migos), Lush (Snail Mail), Superclean Vol. II (The Marias), Insomnia (Skepta)</li>
 				<li>TV: New Girl, Futurama</li>
 				<li>Film: Full Metal Jacket</li>
 				<li>Books: A Little Life, Remote, Research Practice</li>
