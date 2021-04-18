@@ -9,7 +9,7 @@
 
 const posts = [
   {
-    title: 'April 2021?',
+    title: 'April 2021',
     slug: 'April 2021',
     html: `
 			<p>What I've been listening/reading/watching in April 2021.</p>
