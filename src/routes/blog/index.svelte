@@ -25,7 +25,7 @@
 
 <p> You can find my published work from academia <a href="https://scholar.google.com/citations?hl=en&user=3nw4rD4AAAAJ" target="_blank">through Google Scholar</a> 
 	</p>
-<p> Some documentation around Sapper (written by the Svelte folks) </p>
+<p> Documenting what I've been listening/reading/watching </p>
 
 <ul>
 	{#each posts as post}
