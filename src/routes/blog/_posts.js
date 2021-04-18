@@ -12,6 +12,7 @@ const posts = [
     title: 'April 2021',
     slug: 'April 2021',
     html: `
+			<p>This month was about goodbyes. I spent a lot of time reflecting on my work and the past few months. I'm grateful and proud of what I've acommplished and can't wait to see whats next. Until then.</p>
 			<p>What I've been listening/reading/watching in April 2021.</p>
 
 			
