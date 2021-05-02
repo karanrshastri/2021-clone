@@ -4,7 +4,7 @@
 
 <h1>About Karan</h1>
 
-<p>Full-Stack User Researcher. My current job revolves around <strike> aiding product and design teams make evidence-based decisions by understanding how people read the news.</strike> stay tuned
+<p>Senior UX Researcher at <a href ="https://getshogun.com/page-builder?utm_campaign=PB-RLSA&utm_source=google&utm_medium=cpc&utm_content=498253556560&utm_term=shogun&adgroupid=67758702392&gclid=CjwKCAjwm7mEBhBsEiwA_of-TLhCrlJnaKaid46yA_LiBUhk5vmH0Fp4TksPGE6T4O-SQ3hQtg_GFxoCbysQAvD_BwE" target="_blank"> Shogun </a>Bringing user insights to teams - building exceptional ecommerce experience for everyone. 
 	 </p>
  <p>My current <a href="http://getlighthouse.ca/" target="_blank">side project</a> which I co-work on with four friends involves developing a personalised light-based art product to foster interaction between geographically distant family members. 
 	</p>         
