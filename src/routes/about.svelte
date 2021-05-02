@@ -4,7 +4,7 @@
 
 <h1>About Karan</h1>
 
-<p>Senior UX Researcher at <a href ="https://getshogun.com/" target="_blank">Shogun.</a>Bringing user insights to teams - building exceptional ecommerce experiences for everyone. 
+<p>Senior UX Researcher at <a href ="https://getshogun.com/" target="_blank">Shogun</a>. Bringing user insights to teams helping build exceptional ecommerce experiences for everyone. 
 	 </p>
  <p>My current <a href="http://getlighthouse.ca/" target="_blank">side project</a> which I co-work on with four friends involves developing a personalised light-based art product to foster interaction between geographically distant family members. 
 	</p>         
