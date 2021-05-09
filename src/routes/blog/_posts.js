@@ -36,7 +36,7 @@ const posts = [
 
 <ul>
 				<li>Music: Oncle Jazz (Men I Trust, Yasuke (Flying Lotus)</li>
-				<li>TV: Jerrord Carmichael's Home Videos</li>
+				<li>TV: Jerrod Carmichael's Home Videos</li>
 				<li>Film: Promising Young Woman</li>
 				<li>Books: Billion Dollar Loser, Sprint</li>
 			</ul>
