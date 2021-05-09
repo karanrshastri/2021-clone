@@ -35,7 +35,7 @@ const posts = [
 		<p>What I've been listening/reading/watching in May 2021.</p>
 
 <ul>
-				<li>Music: Oncle Jazz (Men I Trust) </li>
+				<li>Music: Oncle Jazz (Men I Trust, Yasuke (Flying Lotus)</li>
 				<li>TV: Jerrord Carmichael's Home Videos</li>
 				<li>Film: Promising Young Woman</li>
 				<li>Books: Billion Dollar Loser, Sprint</li>
