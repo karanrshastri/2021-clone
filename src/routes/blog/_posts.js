@@ -35,8 +35,8 @@ const posts = [
 		<p>What I've been listening/reading/watching in April 2021.</p>
 
 <ul>
-				<li>Music: Men I Trust (Oncle Jazz)</li>
-				<li>TV: Jerrord Carmichael's Home Vidoes</li>
+				<li>Music: Oncle Jazz (Men I Trust) </li>
+				<li>TV: Jerrord Carmichael's Home Videos</li>
 				<li>Film: Promising Young Woman</li>
 				<li>Books: Billion Dollar Loser, Sprint</li>
 			</ul>
