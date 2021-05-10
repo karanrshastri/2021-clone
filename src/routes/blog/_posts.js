@@ -35,7 +35,7 @@ const posts = [
 		<p>What I've been listening/reading/watching in May 2021.</p>
 
 <ul>
-				<li>Music: Oncle Jazz (Men I Trust), Yasuke (Flying Lotus), Pray for Paris (Westside Gunn), If Beale Street Could Talk OST (Nicholas Britell)</li>
+				<li>Music: Oncle Jazz (Men I Trust), Yasuke (Flying Lotus), Pray for Paris (Westside Gunn), If Beale Street Could Talk OST (Nicholas Britell), This Thing of Ours (The Alchemist) </li>
 				<li>TV: Jerrod Carmichael's Home Videos</li>
 				<li>Film: Promising Young Woman</li>
 				<li>Books: Billion Dollar Loser, Sprint</li>
