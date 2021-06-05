@@ -32,6 +32,7 @@ const posts = [
     title: 'May 2021',
     slug: 'May 2021',
     html: `
+		<p> Started a new job this month which I'm very, very excited about. A lot going on this May, allover. Vaccine (first shot), moving apartments are also major milestones. Feels likes the perfect start to Spring/Summer. Until then. </p>
 		<p>What I've been listening/reading/watching in May 2021.</p>
 
 <ul>
