@@ -10,7 +10,7 @@
 	</p>         
 <p>My <a href="https://uwspace.uwaterloo.ca/handle/10012/14917" target="_blank">thesis</a> in grad school focused on understanding the experiences of younger people living with cognitive impairment or dementia and its impact on their employment.
 	</p>
-<p> Things I'm interested in: startups, crypto, bycycling, and rock climbing.
+<p> Things I'm interested in: startups, crypto, bicycling, and rock climbing.
 </p>
 <p> Reach out to me via <a href="https://twitter.com/karanrshastri" target="_blank">twitter</a> or email karanrshastri [at]gmail[dot]com.
 	</p>
