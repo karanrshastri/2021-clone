@@ -44,8 +44,24 @@ const posts = [
 
 		`,
   },
+	
+{
+    title: 'June 2021',
+    slug: 'June 2021',
+    html: `
+		<p>Started a new job this month which I'm very, very excited about. A lot going on this May, allover. Vaccine (first shot), moving apartments are also major milestones. Feels likes the perfect start to Spring/Summer. Until then.</p>
+		<p>What I've been listening/reading/watching in May 2021.</p>
 
+<ul>
+				<li>Music: Oncle Jazz (Men I Trust), Yasuke (Flying Lotus), Pray for Paris (Westside Gunn), If Beale Street Could Talk OST (Nicholas Britell), This Thing of Ours (The Alchemist), My Beautiful Dark Twisted Fantasy (Kanye West) </li>
+				<li>TV: Jerrod Carmichael's Home Videos</li>
+				<li>Film: Promising Young Woman</li>
+				<li>Books: Billion Dollar Loser, Sprint</li>
+			</ul>
 
+		`,
+  },
+  },
 
 posts.forEach(post => {
   post.html = post.html.replace(/^\t{3}/gm, '');
