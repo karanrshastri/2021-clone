@@ -50,19 +50,34 @@ const posts = [
 		title: 'June 2021',
 		slug: 'june-2021',
 		html: `
-			<p>placeholder</p>
+			<p>Starting to arrange and curate pieces for new apartment. Nothing much to add, bust with work, as usual. Until then.</p>
 			
-			<ul>
-				<li>Music: Still Striving (A$AP Ferg) </li>
-				<li>TV: </li>
-				<li>Film: </li>
-				<li>Books: </li>
+			<ul> 
+				<li>Music: Still Striving (A$AP Ferg), Call Me If You Get Lost (Tyler, The Creator), Pray for Haiti (Mach-Hommy, Cinema (The Marias) </li>
+				<li>TV: Succession (Rewatching)</li>
+				<li>Film: None </li>
+				<li>Books: Stoner</li>
 			</ul>
 
 			
 		`
 	}
+{
+		title: 'July 2021',
+		slug: 'july-2021',
+		html: `
+			<p>Things are opening-up in Toronto. Spending some quality time with friends. I need to consider fixing my bike, the gears seem a bit off. Month started off a bit wonky but I feel like I'm getting my groove back! Started climbing again, hopefully I maintain the momentum. Until next time.</p>
+			
+			<ul>
+				<li>Music: Vince Staples (Vince Staples), The Asymptotical World (Yves Tumor), Comedown Machine (The Strokes) </li>
+				<li>TV: Seinfeld</li>
+				<li>Film: Shiva Baby</li>
+				<li>Books: Stoner</li>
+			</ul>
 
+			
+		`
+	}
 	
 ];
 
