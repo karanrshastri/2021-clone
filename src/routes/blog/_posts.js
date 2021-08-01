@@ -70,7 +70,7 @@ const posts = [
 			
 			<ul>
 				<li>Music: Vince Staples (Vince Staples), The Asymptotical World (Yves Tumor), Comedown Machine (The Strokes) </li>
-				<li>TV: Seinfeld</li>
+				<li>TV: Seinfeld, Ted Lasso</li>
 				<li>Film: Shiva Baby</li>
 				<li>Books: Stoner</li>
 			</ul>
