@@ -62,23 +62,7 @@ const posts = [
 			
 		`
 	}
-{
-		title: 'July 2021',
-		slug: 'july-2021',
-		html: `
-			<p>Things are opening-up in Toronto. Spending some quality time with friends. I need to consider fixing my bike, the gears seem a bit off. Month started off a bit wonky but I feel like I'm getting my groove back! Started climbing again, hopefully I maintain the momentum. Until next time.</p>
-			
-			<ul>
-				<li>Music: Vince Staples (Vince Staples), The Asymptotical World (Yves Tumor), Comedown Machine (The Strokes) </li>
-				<li>TV: Seinfeld, Ted Lasso</li>
-				<li>Film: Shiva Baby</li>
-				<li>Books: Stoner</li>
-			</ul>
 
-			
-		`
-	}
-	
 	
 ];
 
