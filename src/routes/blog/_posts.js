@@ -50,7 +50,7 @@ const posts = [
 		title: 'June 2021',
 		slug: 'june-2021',
 		html: `
-			<p>Starting to arrange and curate pieces for new apartment. Nothing much to add, bust with work, as usual. Until then.</p>
+			<p>Starting to arrange and curate pieces for new apartment. Nothing much to add, busy with work, as usual. Until then.</p>
 			
 			<ul> 
 				<li>Music: Still Striving (A$AP Ferg), Call Me If You Get Lost (Tyler, The Creator), Pray for Haiti (Mach-Hommy, Cinema (The Marias) </li>
